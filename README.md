@@ -54,5 +54,5 @@ Name:- Riya <br>
 Section:- K23BM <br>
 Reg. no.:- 12326877 <br>
 Roll no.:- 24 <br>
-**Git Hub link**:-    <br>
+**Git Hub link**:-    https://github.com/briya1597<br>
 **linkedin link**:-   https://www.linkedin.com/in/riya-bisht-a3149a297/
